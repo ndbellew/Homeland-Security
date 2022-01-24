@@ -14,15 +14,15 @@
     1. Ken'ichi Hirose - Doctor of Physics.
     2. Ikuo Hayashi - Medical doctor held in esteem at the Ministry of Science and Technology.
     3. Toru Toyoda - Physics student who graduated with honors from the University of Tokyo.
-    3. Masato Ykoyama - Applied Physics major who worked at an electronics firm
+    3. Masato Yokoyama - Applied Physics major who worked at an electronics firm
     4. Yasuo Hayashi - studied Artificial Intelligence - Carried Three bags of Sarin (Everyone else had 2)
-> Sarin is an oderless liquid that attacks the nervous system, developed in Germany in 1938 as a pesticide. from a pinhead drop it can kill an adult quickly in 1-10 minutes.
+> Sarin is an odorless liquid that attacks the nervous system, developed in Germany in 1938 as a pesticide. from a pinhead drop it can kill an adult quickly in 1-10 minutes.
 > The attacks were successful but the attackers were unable to fully puncture the bags, leaving the passengeers daized and confused. of the 5,510 passengers and workers who sought treatment only 12 people succumbed to the poison. 
 > This was the first time a non-state group had used a weapon of mass destruction.
 ## The Terrorism Threat
 - Terrorism  - Acts dangerous to human life that are a violation of the criminal laws of the United States or of any State, that appear to be inteneded to intimidate or coerce a civilian population; influence the policy of a government by intimidation or coercion; or to affect the conduct of a goverment by mass destruction, assassination, or kidnapping.
 
-> Many americans believed that Terrorism was problem for other countries. This was all shattered from the attacks in the 90s.
+> Many Americans believed that Terrorism was problem for other countries. This was all shattered from the attacks in the 90s.
     1. Tokyo Subway attacks - Sarin poison
     2. World Trade Center - Plane crash.
     3. Oklahoma City Bombing - Bombs.
@@ -53,8 +53,8 @@
 ## Homeland Security
  > Congressional Response: establish three separate commissions
     > 1.  Advisory Panel to Assess Domestic Response Capabilities for Terrorism Involving Weapons of Mass Destruction (Gilmore Panel)
-    > 2. The United States Commision on National Security in the 21st Century (Hart-Rudman Commission)
-    > 3. The National Commision on Terrorism (Bremer Panel)
+    > 2. The United States Commission on National Security in the 21st Century (Hart-Rudman Commission)
+    > 3. The National Commission on Terrorism (Bremer Panel)
     >  - Raised the issue that the National Coordinator did not have the sufficient authority to ensure the President's priorities were reflected in agencies' budgets. (No one budget but 45 separate budgets)
 >   - Major issues included the lack of a national strategy deu to the fact that no entity had the authority to direct all of the agencies that may be engaged. 
 
@@ -65,9 +65,9 @@ The Gilmore Commission suggested the director of the office should be the princi
     4. Research, Development, Test, and Evaluation (RDT&E), and National Standards
     5. Management and Budget
 
-The Hart Rudman Commission decried that there should be a department reorganization to handle contemprorary threat to the homeland:
+The Hart Rudman Commission decried that there should be a department reorganization to handle contemporary threat to the homeland:
 - There shall be a single person accountable to the President, to be responsible for coordinating and overseeing US government activities related to homeland security
-- Homeland Security activites should be consolidated to improve effectiveness nad coherence.
+- Homeland Security activities should be consolidated to improve effectiveness nad coherence.
 - Each org should have established planning mechanisms. 
 - Each org must ensure that the appropriate amount of resources and capabilities were available. 
 
