@@ -104,11 +104,11 @@ Voluntary Organizations Active in Disaster
 : National Voluntary Organization Active in Disaster (National VOAD) is a consortium of approx 50 national organizations and 55 state and territory equivalents that typically send reps.
 
 Nongovernmental Organizations
-: NGOs provide sheltering, emergency food supplies, couseling services, and other vital support services to support response and promote the recovery of disaster victims.
+: NGOs provide sheltering, emergency food supplies, counseling services, and other vital support services to support response and promote the recovery of disaster victims.
 
 
 Community Organizations
-: foster the development of organizations and organizational capacity that act toward a common goal. IE Neighborhood watch, communuity Emergency Response Teams, or providing emergency food or shelter.
+: foster the development of organizations and organizational capacity that act toward a common goal. IE Neighborhood watch, community Emergency Response Teams, or providing emergency food or shelter.
 
 Individuals and Families
 : take basic steps to prepare themselves for emergencies, including understanding the threats and hazards that they may face, reducing hazards in and around their homes, preparing an emergency supply kit and household emergency plans, monitoring emergency comms, volunteering, etc.
