@@ -7,7 +7,7 @@
   - What are the Mission Sets?
   - Border and Transportation Security, Counterterrorism, Emergency Management, countering weapons of mass destruction, critical infrastructure protection, and cybersecurity
 
-## 1. Introduction 
+## 1. Introduction
 
 What is Homeland Security
 : Safeguarding the United States from domestic catastrophic destruction which can be either natural or manmade.
