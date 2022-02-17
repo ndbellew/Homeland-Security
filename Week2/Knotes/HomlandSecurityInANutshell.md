@@ -10,7 +10,7 @@
 ## 1. Introduction
 
 What is Homeland Security
-: Safeguarding the United States from domestic catastrophic destruction which can be either natural or manmade.
+: Safeguarding the United States from domestic catastrophic destruction which can be either natural or man made.
 
 Presidential Decision Directive #63
 : Acting on the Commissions warning+, President Clinton issued the directive on May 1998 ordering the protection of critical infrastructure from both physical and virtual attack. But due to a lack of coordination these measures proved ineffective on 9/11
@@ -18,11 +18,12 @@ Presidential Decision Directive #63
 > After the Tokyo Subway attack in March of 1995 it was made clear that the United States was indeed unprepared to deal with similar such incidents on US soil.
 > National Homeland Security came from the various commissions from 1999-2001 in order to provide coordination necessary for handling any Homeland Security Needs. 9/11 for instance occurred while Congress was still hashing out the details. The Department of homeland Security was created in the wake of 9/11 by the Homeland Security Act signed into law in 2002.
 > There is no way to formally stop Hurricanes or determined attacks but to safeguard the US, there are four phases of disaster:
->   - Prevent
->   - Protect
->   - Respond
->   - Recover
-> 
+>
+> - Prevent
+> - Protect
+> - Respond
+> - Recover
+>
 > The difference between the Tokyo attacks and 9/11 was the use creation and then use of a WMD. The planes became guided missiles and were used as WMD. This led to an understanding that there were vulnerabilities within the infrastructure of the US so President Clinton in 1997.
 > The results of the Clinton Commission on Critical Infrastructure Protection, reported that there was no immediate threat to US infrastructure but there was a growing potential for a Cyber Attack. The implication being that lifeline functions such as: water, energy, transportation, and communications would become increasingly vulnerable.
 
