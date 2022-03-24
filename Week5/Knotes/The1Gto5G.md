@@ -1,1 +1,0 @@
-# Evolution of Mobile Generation Technology: 1G to 5G and Review of Upcoming Wireless Technology 5G

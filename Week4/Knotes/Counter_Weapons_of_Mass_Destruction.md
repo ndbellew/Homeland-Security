@@ -1,1 +1,0 @@
-# Counter Weapons of Massive Destruction
